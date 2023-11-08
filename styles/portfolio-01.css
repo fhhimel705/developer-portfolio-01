@@ -5,7 +5,7 @@
 }
 /* header lets help - donate */
 header{
-  background-image: url("/images/donation13.jpg"  );
+  background-image: url('/images/donation13.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 670px;
@@ -255,18 +255,18 @@ background: #D9D9D9;
 border: none;
 color: #AA9F9F;
 font-size: 16px;
-font-weight: 500;
+font-weight: 500px;
 line-height: 20px;
 }
 .updates  button{
   width: 157px;
-height: 48px;
+height: 50px;
 border-radius: 0px 5px 5px 0px;
 background: #FF5959;
 border: none;
 color: #FFF;
 font-size: 16px;
-font-weight: 500;
+font-weight: 500px;
 line-height: 20px;
 }
 /* footer */
@@ -295,4 +295,8 @@ padding: 0px 629px 24px 653px;
 
 .h-00{
   text-align: left;
+}
+button:hover{
+  color:#707070;
+  background-color: #D9D9D9;
 }
