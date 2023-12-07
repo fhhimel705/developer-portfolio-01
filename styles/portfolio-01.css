@@ -5,7 +5,7 @@
 }
 /* header lets help - donate */
 header{
-  background-image: url('/images/donation13.jpg');
+  /* background-image:url("images/donation13.jpg"); */
   background-repeat: no-repeat;
   background-size: cover;
   height: 670px;
